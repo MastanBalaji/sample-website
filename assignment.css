@@ -166,13 +166,13 @@ h5.card-title {
 }
 
 .black-img {
-  background: url('/home/mastan/Desktop/assignment/industry3.jpg') no-repeat center;
+  background: url('sample-website/industry3.jpg') no-repeat center;
   background-size: cover;
   height: 380px;
 }
 
 .black-img1 {
-  background: url('/home/mastan/Desktop/assignment/industry1.jpg') no-repeat center;
+  background: url('sample-website/industry1.jpg') no-repeat center;
   background-size: cover;
   height: 510px;
 }
