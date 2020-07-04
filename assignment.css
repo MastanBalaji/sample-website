@@ -166,13 +166,13 @@ h5.card-title {
 }
 
 .black-img {
-  background: url('industry3.jpg') no-repeat center;
+  background: url(industry3.jpg) no-repeat center;
   background-size: cover;
   height: 380px;
 }
 
 .black-img1 {
-  background: url('industry1.jpg') no-repeat center;
+  background: url(industry1.jpg) no-repeat center;
   background-size: cover;
   height: 510px;
 }
